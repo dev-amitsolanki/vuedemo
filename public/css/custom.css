@@ -1,0 +1,23 @@
+
+.flash__close-button {
+        box-sizing: border-box;
+        position: absolute;
+        top: 0;
+        right: 0;
+        color: inherit;
+        -webkit-appearance: none;
+        -moz-appearance: none;
+        appearance: none;
+        background-color: transparent;
+        background: none;
+        border: none;
+        cursor: pointer;
+        font-size: 18px;
+        line-height: 50px;
+        margin: 0;
+        padding: 8px;
+    }
+.error{
+
+    color: red;
+}
